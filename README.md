@@ -1,5 +1,4 @@
 # Web2DUO 
-========================
 
 Desafio Desenvolvedor Wordpress;
 
@@ -17,7 +16,7 @@ Desenvolvimento de layout customizado em Wordpress com base no layout fornecido.
 4. Mande um pull request, com o conteúdo do seu tema WordPress e o banco de dados, até a data estipulada;
 5. A compreensão do layout e do que precisa ser feito faz parte do teste ;)
 
-## Você pode e iremos adorar se... <3
+## Você pode e iremos adorar se...
 
 - Utilizar algum pré-processador de sua preferência (Less, SASS, STYLES);
 - Utilizar bibliotecas CSS como Compass, Bourbon, Animatecss ou outras;
