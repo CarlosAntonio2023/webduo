@@ -13,7 +13,7 @@ Desenvolvimento de layout customizado em Wordpress com base no layout fornecido.
 1. Faça um fork do projeto para sua conta pessoal (Github, Bitbucket, Gitlab);
 2. Implemente o layout que está dentro da pasta `design`;
 3. Utilize suas habilidades com o WordPress para tornar o conteúdo deste projeto o mais dinâmico possível;
-4. Mande um pull request, com o conteúdo do seu tema WordPress e o banco de dados, até a data estipulada;
+4. Mande o link do seu projeto (Github, Bitbucket, Gitlab) com o conteúdo do seu tema WordPress e o banco de dados, até a data estipulada;
 5. A compreensão do layout e do que precisa ser feito faz parte do teste ;)
 
 ## Você pode e iremos adorar se...
